@@ -1,0 +1,10 @@
+../Core/Src/main.cpp:87:9:uint8_t CheckButton(const GamepadButton&, uint8_t)	40	static
+../Core/Src/main.cpp:167:5:int main()	80	static
+../Core/Src/main.cpp:326:6:void SystemClock_Config()	136	static
+../Core/Src/main.cpp:375:13:void MX_TIM6_Init()	16	static
+../Core/Src/main.cpp:413:13:void MX_USART2_UART_Init()	8	static
+../Core/Src/main.cpp:448:13:void MX_GPIO_Init()	56	static
+../Core/Src/main.cpp:502:6:void UPrint(char*)	16	static
+../Core/Src/main.cpp:507:5:int length_of_string(char*)	24	static
+../Core/Src/main.cpp:518:13:void ResetGame()	16	static
+../Core/Src/main.cpp:532:6:void Error_Handler()	8	static,ignoring_inline_asm

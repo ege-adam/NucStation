@@ -1,0 +1,6 @@
+../Core/Src/main.cpp:87:9:uint8_t CheckButton(const GamepadButton&, uint8_t)	32	static
+../Core/Src/main.cpp:330:6:void SystemClock_Config()	128	static,ignoring_inline_asm
+../Core/Src/main.cpp:511:5:int length_of_string(char*)	0	static
+../Core/Src/main.cpp:506:6:void UPrint(char*)	8	static
+../Core/Src/main.cpp:171:5:int main()	104	static,ignoring_inline_asm
+../Core/Src/main.cpp:536:6:void Error_Handler()	0	static,ignoring_inline_asm

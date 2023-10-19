@@ -1,0 +1,5 @@
+../Core/Src/main.cpp:176:6:void SystemClock_Config()	128	static,ignoring_inline_asm
+../Core/Src/main.cpp:319:5:int length_of_string(char*)	0	static
+../Core/Src/main.cpp:314:6:void UPrint(char*)	8	static
+../Core/Src/main.cpp:75:5:int main()	104	static,ignoring_inline_asm
+../Core/Src/main.cpp:335:6:void Error_Handler()	0	static,ignoring_inline_asm

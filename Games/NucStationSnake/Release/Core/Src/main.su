@@ -1,0 +1,7 @@
+../Core/Src/main.cpp:97:6:void SetRandomBait()	16	static
+../Core/Src/main.cpp:111:6:void SetGameOver()	8	static
+../Core/Src/main.cpp:320:6:void SystemClock_Config()	128	static,ignoring_inline_asm
+../Core/Src/main.cpp:501:5:int length_of_string(char*)	0	static
+../Core/Src/main.cpp:496:6:void UPrint(char*)	8	static
+../Core/Src/main.cpp:124:5:int main()	104	static,ignoring_inline_asm
+../Core/Src/main.cpp:526:6:void Error_Handler()	0	static,ignoring_inline_asm

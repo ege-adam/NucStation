@@ -1,0 +1,2 @@
+../Core/Src/GamepadButton.cpp:11:1:GamepadButton::GamepadButton(GPIO_TypeDef*, uint16_t)	56	static
+../Core/Src/GamepadButton.cpp:23:6:void GamepadButton::UpdateButton()	16	static
